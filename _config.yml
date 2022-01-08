@@ -21,8 +21,8 @@
 title: About books and other musings
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am someone who is interested in new technologies, coding, learning and especially how human mind works.
-  On these site I want to ponder upon those topics as writing about them helps me understand.
+   I am interested in new technologies, coding and I want to constantly learn something new. 
+   Particularly fascinating is to try to understand how human mind (and body) works. On this site I want to ponder upon these topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
