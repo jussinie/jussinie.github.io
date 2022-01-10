@@ -1,0 +1,28 @@
+---
+layout: post
+title: How to improve your systems?
+---
+
+As I wrote in my other [post](www.google.com) it is better to focus on your systems instead of goals. I wanted to write about how I improved my systems using a very simple example - moving enough during the day, as [sitting will kill you](https://www.popsci.com/science/article/2013-02/many-reasons-chair-killing-you/). I am not talking about sports now, rather about normal basic activity where the usual goal is to accumulate 10 000 steps during one day. If you are an active person and have enough activity each day in your life, I salute you. However, for most of us our lives are busy and it is difficult to find the time during the day. A goal of 10 000 steps a day is a wonderful idea but so often life gets at least in my way, especially with this goal. It is easy to reach this goal if I go jogging but on those days I do not, the number of steps can be very low indeed, especially if I am working remotely. Commuting from your bed to your desk doesn't really add steps. How could this be fixed? 
+
+To achieve this goal of 10 000 steps in a day I have to walk approximately 7.7 kilometres according to this [site](https://sustainabilityinfo.com/transportation/how-many-steps-in-a-kilometer/). As my pace is around 5-6 km/h, it will take me approximately one hour and twenty minutes of walking to actually hit that mark. It would be difficult for me to put this almost 1,5 hours block of time to my calendar and accomplish it consistently. I need to split it into smaller chunks, to make it more actionable and to decrease the friction of achieving the goal. There are couple of things I can think of right off the bat on how to get this done. 
+
+#### Have breaks during the day
+
+I like to use something called Pomodoro technique while I am working. There are a ton of resources about the technique all over the internet but [this](https://todoist.com/productivity-methods/pomodoro-technique) is one place to start from. If you like to use online timer like I do, check [this](tomato-timer.com) out. So in short, in Pomodoro technique one splits the day into 25-minute spurts of high productivity, followed by 5 minute break. After four Pomodoros worth of work one has to have 15-20 minute break which is ideal to be used for some walking. With one of these longer breaks I can add around 2000 steps to my daily count. I have also the advantage (or disadvantage, depending on your point of view) that I live on the 4th floor which means I also get to raise the stairs every time I want to go out, letting me get even more out from my breaks. If you want to be productive during the day, you have to remember to have breaks as well. Plan them. Otherwise you will forget (or skip) them as more and more tasks pile on your to do-list.
+
+#### Plan walking meetings
+
+Walking meetings are just what they sound like - meetings you have while walking. They are golden but cannot be applied to all meetings you'll have. I use to do them when I am mostly listening and when I do not have to take notes. If you have to present something, keep notes or participate on the discussion a lot, that particular meeting is not the ideal candidate for this. However, if you are able to turn even one of your 30 minutes long meetings to a walking meeting, you are well on your way to achieve your daily steps. For me that 30 minute walking meeting would add around 4000 steps. 
+
+#### Fake commute
+
+As so often is the case during these covid-times, we work from our homes. That means there is no commute to the office like there used to be. Usually that means lot less activity as you just move within your apartment. One nice way to get yourself moving is to have this "fake commute". When you are about to start work, change to your work clothing (this has proven to improve your results as you transition to work mood) and get out the door. You can use anything between 1 and 15 minutes or even more if you feel like it. Just pretend to be commuting to work and then return back home to your desk. This can also mentally help you to reach the "work state of mind". If I feel very busy, I just walk around our house. That takes me just a few minutes but does have an outsized effect (4th floor, remember?). The opposite is true when you decide to end your workday - just get up from your desk, go out and do the fake commute. That way you can mentally detach from work and get some steps as well. 
+
+#### Walk while listening
+
+If listening podcasts, audio books or just music is something you like to do, that gives you a wonderful opportunity to add some steps to your daily count. What if you went walking while listening instead of slouching on the sofa? With interesting enough audio, the time will fly while you pace on. 
+
+#### Action, not only thinking about it
+
+As I described in my other [post](google.com), I am very good at being in motion instead of taking action. To be able to achieve the goal of 10 000 steps each day, I have combined all the things detailed above. I plan each day ahead, sprinkling breaks, walking meetings and fake commute into my daily routine. If I can have walking meetings during the day, I start with those. Then I'll add the breaks - I know I have to take them anyway. It is very unlikely to stay productive without enough breaks. Then lastly, if it looks that I don't get enough steps I put on my headphones and head out to fulfill the gap still left between me and my goal. The key is to have a plan - do not let life get in the way.
