@@ -13,7 +13,7 @@ But if we still go back to the task at hand for 2022, I decided that the number 
 For now the list looks like this: 
 1. [Atomic Habits](https://www.amazon.com/Atomic-Habits-Proven-Build-Break/dp/0735211299) by James Clear
 2. [Continuous Discovery Habits]() by Teresa Torres
-3. 
+3. [Inspired - how to create tech products customers love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) by Marty Cagan
 4. 
 5. 
 6. 
@@ -23,4 +23,3 @@ For now the list looks like this:
 10. 
 11. 
 12. 
-    <!-- [Inspired - how to create tech products customers love](https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507) by Marty Cagan --> 
