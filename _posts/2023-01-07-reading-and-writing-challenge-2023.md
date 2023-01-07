@@ -1,6 +1,7 @@
 ---
 layout: page
 title: My books for 2022
+permalink: /books2022/
 ---
 
 Hello, you! I have been an avid reader as long as I can remember. If you have no idea of who I am and have wandered here by accident, please have a look [here]({% link about.markdown %}). Well, now that we have the introductions out of the way we could have a look at what most of the stuff here is really about; books. Whenever I am reading a book, I try to learn something. Learning is tremendously reinforced when you actually try to tell someone what you have read and learned or try to put these things into practice. Therefore I thought it would be nice to set a challenge to myself to write a few paragraphs about the books I found fascinating during year 2022. Currently my idea is to tell something about the book in question, maybe something about the author, think about what I learned, about what I could implement to my own life (if possible) and so on. 
