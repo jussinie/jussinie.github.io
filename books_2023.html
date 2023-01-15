@@ -1,0 +1,9 @@
+---
+layout: default
+title: Books 2023
+---
+
+{% for book in site.books_2023 %}
+  <h2>{{ book.author }} - {{ book.title }}</h2>
+  <p>{{ book.title | markdownify }}</p>
+{% endfor %}
