@@ -5,12 +5,12 @@ title: Habit update from week 4
 
 I have been unsuccessful, failing to give an update last week. My week 2 for this year looked like this:
 
-:fire: 4x Gym
-:fire: 1x Evening walk
-:fire: Morning routines every day
-:fire: Meal tracking every day
-:fire: Studying more than twice
-:fire: Singing started for this year
+:fire: 4x Gym <br>
+:fire: 1x Evening walk <br>
+:fire: Morning routines every day <br>
+:fire: Meal tracking every day <br>
+:fire: Studying more than twice <br> 
+:fire: Singing started for this year <br>
 
 I did improve this week as I went to the gym 5 times. Otherwise it was just like week two. 
 Some walking, habit tracking, relaxing and some singing on Sunday as well.
