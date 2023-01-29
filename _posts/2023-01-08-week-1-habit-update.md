@@ -11,19 +11,19 @@ I have seen results both at the gym and on the scale. My training weights have i
 
 **Summary for week 1:**
 
-:fire: 4x Gym (completely lit Saturday)
-:fire: 1x Jog 
-:fire: Morning routines every day
-:fire: Meal tracking every day
+:fire: 4x Gym (completely lit Saturday) <br>
+:fire: 1x Jog <br>
+:fire: Morning routines every day <br>
+:fire: Meal tracking every day <br>
 
-:hankey: Studying
-:hankey: Evening routines
+:hankey: Studying <br>
+:hankey: Evening routines <br>
 
 **Goals for week 2:**
 
-- 3x Gym
-- 1x Jog
-- 2x Studying
-- Evening routines in place
-  - Mobility exercise
-  - Getting to bed before 10 PM
+- 3x Gym <br>
+- 1x Jog <br>
+- 2x Studying <br>
+- Evening routines in place <br>
+  - Mobility exercise <br>
+  - Getting to bed before 10 PM <br>

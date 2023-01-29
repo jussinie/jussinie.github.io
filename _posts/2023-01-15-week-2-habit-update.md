@@ -20,13 +20,13 @@ And the results?
 
 **Summary for week 2:**
 
-:fire: 4x Gym
-:fire: 1x Evening walk
-:fire: Morning routines every day
-:fire: Meal tracking every day
-:fire: Studying more than twice
-:fire: Singing started for this year
+:fire: 4x Gym <br>
+:fire: 1x Evening walk <br>
+:fire: Morning routines every day <br>
+:fire: Meal tracking every day <br>
+:fire: Studying more than twice <br>
+:fire: Singing started for this year <br>
 
-:hankey: Evening routines
+:hankey: Evening routines <br>
 
 So basically doing sport still had strong tailwind this week whereas evening routines were a struggle. Having an alarm set at 21.30 did not do the trick, even though I did do mobility exercise almost every evening. Studying went better this week but it needs better scheduling for sure. 
