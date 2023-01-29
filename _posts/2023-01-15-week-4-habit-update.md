@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Habit update from week 3
+title: Habit update from week 4
 ---
 
 I have been unsuccessful, failing to give an update last week. My week 2 for this year looked like this:
